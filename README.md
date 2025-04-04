@@ -1,6 +1,14 @@
-# Phenology description is all you need 
-# This is the official implementation of "‘Phenological Descriptions Are All You Need!’ Mapping Unknown Crop Types Using Remotely Sensed Time Series and LLM-Generated Text Alignments”. This novel framework leverages visual and semantic knowledge to extract time-series information of each crop sample, and combine this framework to explore zero-shot crop classification across different regions for the first time.
+# Phenology Description Is All You Need
 
-Current Status 
-Pre-trained Weights and Model Files: We have made the pre-trained weights and core model files available for immediate use. You can download them (link to be added) and start experimenting with the framework right away. 
-Codebase: The current implementation includes the essential components to run the model. We are actively working on organizing and documenting the remaining parts of the codebase, which will be released as soon as possible. Stay tuned for updates!
+This is the official implementation of *"‘Phenological Descriptions Are All You Need!’ Mapping Unknown Crop Types Using Remotely Sensed Time Series and LLM-Generated Text Alignments"*. This novel framework leverages both visual and semantic knowledge to extract time-series information for each crop sample. By combining these insights, it pioneers zero-shot crop classification across diverse regions, offering a scalable and adaptable solution for agricultural remote sensing.
+
+## Overview
+
+To the best of our knowledge, we are the first to explore the application of zero-shot learning in crop classification. And, we propose a novel contrastive learning framework that exploits the time-series visual information of crop samples as well as semantic knowledge in the form of novel time-series text descriptions. This repository provides the tools and resources to replicate our experiments, apply the framework to new regions, and explore its potential for agricultural monitoring and beyond.
+
+## Current Status
+
+- **Pre-trained Weights and Model Files**: We have made the pre-trained weights and model.py available for immediate use. You can download them [here](#) (link to be added) and start experimenting with the framework right away.
+- **Codebase**: The current implementation includes the essential components to run the model. We are actively working on organizing and documenting the remaining parts of the codebase, which will be released as soon as possible. Stay tuned for updates!
+
+
