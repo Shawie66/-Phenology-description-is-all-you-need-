@@ -8,7 +8,7 @@ To the best of our knowledge, we are the first to explore the application of zer
 
 ## Current Status
 
-- **Pre-trained Weights and Model Files**: We have made the pre-trained weights available for immediate use. You can download them [here](#) (link to be added) and start experimenting with the framework right away.
+- **Pre-trained Weights and Model Files**: We have made the pre-trained weights available for immediate use. You can download them [here](#) (https://drive.google.com/file/d/1rxWEfE3KSCf_yvX1azkRGv-i2B0pUGHY/view?usp=sharing) and start experimenting with the framework right away.
 - **Codebase**: The current implementation includes the essential components to run the model. We are actively working on organizing and documenting the remaining parts of the codebase, which will be released as soon as possible. Stay tuned for updates!
 
 ## Acknowledgment
